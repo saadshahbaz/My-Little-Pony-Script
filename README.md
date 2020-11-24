@@ -31,9 +31,10 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 - Writing unittest spread across verbosity, mentions, follow-on-comments, and nondictionary words to confirm they give out the desired output.
 
 ## Language and Libraries used
-- Python3
-- Pandas
-- JSON
+#### - Python3 <br>
+#### - JSON
+#### - Pandas <br>
+ to install pandas please run: pip install pandas in the command line
 
 ## To run the file:
 - Import all the data to the data/ directory
