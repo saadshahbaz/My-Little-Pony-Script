@@ -36,7 +36,7 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 - JSON
 
 ## To run the file:
-- import all the data to the data/ directory
+- Import all the data to the data/ directory
 - Add the analysis.py file to the script directory
 - Add the files test.py, follow.py, jsonfile.py, mentions.py, non_dictionary_words.py and the verbosity.py file to the src/hw3 directory
 - Add the analysis_tester.py file to the src/hw3/tests directory
