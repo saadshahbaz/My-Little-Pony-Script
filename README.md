@@ -45,4 +45,4 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 python3 analysis.py data/clean_dialog.csv -o [optional_json_file_for_output_in_json]
 
 ## Ending Notes
-#### All Copyright still belongs to the sites I imported the data from
+#### All Copyright of the data still belongs to the sites I imported the data from
