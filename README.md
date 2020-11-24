@@ -33,6 +33,16 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 ## Language and Libraries used
 - Python3
 - Pandas
+- JSON
+
+## To run the file:
+- import all the data to the data/ directory
+- Add the analysis.py file to the script directory
+- Add the files test.py, follow.py, jsonfile.py, mentions.py, non_dictionary_words.py and the verbosity.py file to the src/hw3 directory
+- Add the analysis_tester.py file to the src/hw3/tests directory
+
+#### From the scripts folder run the following command on the command line
+python3 analysis.py data/clean_dialog.csv -o [optional_json_file_for_output_in_json]
 
 ## Ending Notes
 #### All Copyright still belongs to the sites I imported the data from
