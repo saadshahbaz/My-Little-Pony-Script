@@ -34,7 +34,7 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 #### - Python3 <br>
 #### - JSON
 #### - Pandas <br>
-*to install pandas please run: `pip install pandas` in the command line*
+*to install pandas please run: `$ pip install pandas` in the command line*
 
 ## To run the file:
 - Import all the data to the data/ directory
@@ -43,7 +43,7 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 - Add the analysis_tester.py file to the src/hw3/tests directory
 
 #### From the scripts folder run the following command on the command line
-`python3 analysis.py data/clean_dialog.csv -o [optional_json_file_for_output_in_json]`
+`$ python3 analysis.py data/clean_dialog.csv -o [optional_json_file_for_output_in_json]`
 
 ## Ending Notes
 #### All Copyright of the data still belongs to the sites I imported the data from
