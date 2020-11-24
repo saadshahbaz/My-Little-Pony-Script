@@ -34,7 +34,7 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 #### - Python3 <br>
 #### - JSON
 #### - Pandas <br>
- to install pandas please run: pip install pandas in the command line
+*to install pandas please run: pip install pandas in the command line*
 
 ## To run the file:
 - Import all the data to the data/ directory
