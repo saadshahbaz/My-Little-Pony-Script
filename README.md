@@ -30,7 +30,8 @@ for example: “twilight”: [ “huh”, “ugh”, “awwww” , “wheee”, 
 ### - Unittests <br>
 - Writing unittest spread across verbosity, mentions, follow-on-comments, and nondictionary words to confirm they give out the desired output.
 
-## Libraries used
+## Language and Libraries used
+- Python3
 - Pandas
 
 ## Ending Notes
