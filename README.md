@@ -1,6 +1,6 @@
 # My-Little-Pony-Script
 
-# The goal of this Project is to develop python scripts and code to conduct a complete a data analysis project on a show called My Little Pony.
+# The goal of this Project is to develop python scripts and code to conduct a complete data analysis project on a show called My Little Pony.
 
 ## Data <br>
 [Data used for this project to analyse the scripts of the show](https://www.kaggle.com/liury123/my-little-pony-transcript) <br>
